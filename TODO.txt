@@ -2,5 +2,20 @@
 npm init --y
 
 2.app.js
+
 3.Packages
   -cors
+  -bcryptjs
+  -amqplib(RabbitMQ)
+  -express
+  -express-fileupload
+  -express-rate-limit
+  -express-validator
+  -helmet
+  -hpp
+  -jsonwebtoken
+  -mongoose
+  -nodemailer
+  -pino
+
+  4.File Folder Structure
